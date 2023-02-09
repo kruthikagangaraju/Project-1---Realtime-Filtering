@@ -1,3 +1,5 @@
+/* Code for filters
+Kruthika Gangaraju */
 #include <opencv2/imgcodecs.hpp>
 #include <opencv2/highgui.hpp>
 #include <opencv2/imgproc.hpp>
